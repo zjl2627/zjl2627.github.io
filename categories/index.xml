@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 远 离 尘 嚣</title>
+    <link>https://zjl2627.github.io/categories/</link>
+    <description>Recent content in Categories on 远 离 尘 嚣</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zjl2627.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>人生</title>
+      <link>https://zjl2627.github.io/categories/%E4%BA%BA%E7%94%9F/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjl2627.github.io/categories/%E4%BA%BA%E7%94%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>诗意</title>
+      <link>https://zjl2627.github.io/categories/%E8%AF%97%E6%84%8F/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjl2627.github.io/categories/%E8%AF%97%E6%84%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>抱朴</title>
+      <link>https://zjl2627.github.io/categories/%E6%8A%B1%E6%9C%B4/</link>
+      <pubDate>Fri, 09 Feb 2024 11:00:00 +0000</pubDate>
+      
+      <guid>https://zjl2627.github.io/categories/%E6%8A%B1%E6%9C%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>爱好</title>
+      <link>https://zjl2627.github.io/categories/%E7%88%B1%E5%A5%BD/</link>
+      <pubDate>Fri, 03 Jul 2009 18:00:00 +0000</pubDate>
+      
+      <guid>https://zjl2627.github.io/categories/%E7%88%B1%E5%A5%BD/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
